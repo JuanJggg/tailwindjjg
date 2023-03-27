@@ -1,0 +1,20 @@
+{
+  "name": "tailwindjjg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanJggg/tailwindjjg.git"
+  },
+  "author": "Juanjo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanJggg/tailwindjjg/issues"
+  },
+  "homepage": "https://github.com/JuanJggg/tailwindjjg#readme",
+  "keywords": [],
+  "description": ""
+}
